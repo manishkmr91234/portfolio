@@ -66,7 +66,7 @@ solutions, aspiring to make a career in software engineering with a focus on ful
 <h2 align="center">🤝 Let's Connect</h2>
 <br>
 <div align="center">
-  <a href="https://portfoliomkk.netlify.app/">
+  <a href="https://manishkmrportfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
     <a href="https://www.linkedin.com/in/manish-kumar-b0654b1b7">
