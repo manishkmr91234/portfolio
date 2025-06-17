@@ -1,12 +1,12 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:00FFFF&height=140&section=header&text=Hi,%20I'm%20Manish%20Kumar&fontSize=55&animation=twinkling&fontColor=FFFFFF&fontAlignY=30&desc=Fullstack%20Developer%20|%20Backend%20Curious&descAlignY=75&descAlign=50&descSize=25)
+  ![Header](https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:00FFFF&height=140&section=header&text=Hi,%20I'm%20Manish%20Kumar&fontSize=55&animation=twinkling&fontColor=FFFFFF&fontAlignY=30&desc=Fullstack%20Developer%20%20%20&descAlignY=75&descAlign=50&descSize=25)
 
 </div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&random=false&width=435&lines=Crafting+Digital+Experiences;Problem+Solver;Code+Architect;Innovation+Driver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&random=false&width=435&lines=Problem+Solver;Code+Architect;Innovation+Driver" alt="Typing SVG" />
   </a>
 </p>
 
@@ -82,7 +82,5 @@ solutions, aspiring to make a career in software engineering with a focus on ful
 <div align="center">
 
 <br>
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:00FFFF&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=FFFFFF&animation=twinkling&reversal=true)
 
 </div>
